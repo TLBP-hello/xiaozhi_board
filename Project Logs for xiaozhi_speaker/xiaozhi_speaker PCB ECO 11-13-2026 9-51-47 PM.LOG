@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=SD/L-1
+Removed Pin From Net: NetName=+3.3 Pin=SD/L-2
+Removed Member From Class: ClassName=xiaozhi_speaker Member=SD/L
+Change Component Designator: OldDesignator=6dB/3dB NewDesignator=6dB
+Change Component Designator: OldDesignator=15dB/12dB NewDesignator=15dB
+Change Component Designator: OldDesignator=mode/gain NewDesignator=mode
+Change Component Designator: OldDesignator=R/LR NewDesignator=R

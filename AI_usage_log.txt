@@ -1,0 +1,13 @@
+Prompts:
+specification summary of the speaker board
+Results:
+summary about Hardware & Components, Connectivity & Signals, Layout & Routing Guidance
+verify:
+locate and confirm on the original specification
+
+recommendation for the 5v and 3.3v problem with R_sd
+suggested to use constant Vddio (pullup source) = 3.3v (Vddio < Vdd always so 5v is not used here),
+verify: 
+ calculation: https://docs.google.com/spreadsheets/d/1A0Wnx3Wq1tkRwDElwuCXs3wS6Xe_hrTx-toH-BgELlw/edit?usp=sharing
+ calculated Vsd is approximately the same regardless of Vddio (pullup source) due to the formula provided in the datasheet for R_large and R_small.(p17)
+ Vddio < Vdd rule is provided in the datasheet (p17) 

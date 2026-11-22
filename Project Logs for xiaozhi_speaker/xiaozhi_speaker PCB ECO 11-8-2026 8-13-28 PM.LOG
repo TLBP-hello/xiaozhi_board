@@ -1,0 +1,20 @@
+Removed Member From Class: ClassName=xiaozhi_speaker Member=P1
+Added Component: Designator=P?(JST_S2B-PH-SM4-TB)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/S2B-PH-SM4-TB/JST/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "S2B-PH-SM4-TB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/S2B-PH-SM4-TB/JST/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Netmode_1 Pin=mode-1
+Added Pin To Net: NetName=Netmode_1 Pin=R3-2
+Added Net: Name=Netmode_1
+Added Pin To Net: NetName=OUTN Pin=P?-1
+Added Pin To Net: NetName=OUTN Pin=U1-10
+Added Net: Name=OUTN
+Added Pin To Net: NetName=OUTP Pin=P?-2
+Added Pin To Net: NetName=OUTP Pin=U1-9
+Added Net: Name=OUTP
+Added Pin To Net: NetName=SD_MODE Pin=J2-2
+Added Net: Name=SD_MODE
+Added Member To Class: ClassName=xiaozhi_speaker Member=Component P? S2B-PH-SM4-TB

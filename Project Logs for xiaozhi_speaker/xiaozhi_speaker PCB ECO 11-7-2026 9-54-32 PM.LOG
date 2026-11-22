@@ -1,0 +1,28 @@
+Added Component: Designator=OUTN(TestPoint/SMD/1.5mm)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "NO-BOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UNIT PRICE"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=OUTP(TestPoint/SMD/1.5mm)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "NO-BOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UNIT PRICE"; Value = "0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetOUTN_1 Pin=OUTN-1
+Added Pin To Net: NetName=NetOUTN_1 Pin=P1-1
+Added Pin To Net: NetName=NetOUTN_1 Pin=U1-10
+Added Net: Name=NetOUTN_1
+Added Pin To Net: NetName=NetOUTP_1 Pin=OUTP-1
+Added Pin To Net: NetName=NetOUTP_1 Pin=P1-2
+Added Pin To Net: NetName=NetOUTP_1 Pin=U1-9
+Added Net: Name=NetOUTP_1
+Added Member To Class: ClassName=xiaozhi_speaker Member=Component OUTN Test Point
+Added Member To Class: ClassName=xiaozhi_speaker Member=Component OUTP Test Point

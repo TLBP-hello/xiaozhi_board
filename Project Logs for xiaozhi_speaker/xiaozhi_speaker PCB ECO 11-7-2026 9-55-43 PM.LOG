@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=Ch NewDesignator=MODE
+Added Component: Designator=GAIN(TestPoint/SMD/1.5mm)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "NO-BOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UNIT PRICE"; Value = "0"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetCh_1 New Net Name=NetJ2_2
+Added Pin To Net: NetName=NetGAIN_1 Pin=GAIN-1
+Added Pin To Net: NetName=NetGAIN_1 Pin=U1-2
+Added Net: Name=NetGAIN_1
+Added Member To Class: ClassName=xiaozhi_speaker Member=Component GAIN Test Point

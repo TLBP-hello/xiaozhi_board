@@ -1,0 +1,29 @@
+reference: MAX98357 I2S Amplifier Module https://www.dfrobot.com/product-2614.html
+
+components
+
+MAX98357A: 
+ ref: https://www.snapeda.com/parts/MAX98357AETE+T/Analog%20Devices/view-part/
+ datasheet: https://www.snapeda.com/parts/MAX98357AETE+T/Analog%20Devices/datasheet/
+
+PIN SD_MODE
+R_sd: datasheet, Table 5. SD_MODE Control
+ std R values https://www.vishay.com/docs/31001/dectable.pdf
+ R_sd calc: https://docs.google.com/spreadsheets/d/1A0Wnx3Wq1tkRwDElwuCXs3wS6Xe_hrTx-toH-BgELlw/edit?usp=sharing
+ R_small = 210,2k  
+ R_large = 626k
+ const Vddio = 3.3v (ensure board work with 3.3v and 5v) 
+ 2k resistor added in series with SD_MODE pin to ensure Vddio < Vdd (datasheet, p17) 
+
+Resistor, capacitor: chipfc Altium library
+
+output: https://www.snapeda.com/parts/S2B-PH-SM4-TB/JST/view-part/
+
+12dB gain => GAIN_SLOT - GND
+
+open connection for solder pads -> testpoints: chipfc Altium lib
+
+DESIGN RULE
+
+min clearance >= 0.15mm -> default 0.254mm
+trace width >= 0.15mm -> [0.254; 0.3] (max +0.5 AI recomendation)

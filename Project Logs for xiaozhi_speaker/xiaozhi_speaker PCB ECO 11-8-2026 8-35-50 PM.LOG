@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=LRCLK Pin=J1-1
+Removed Pin From Net: NetName=BCLK Pin=J1-2
+Added Pin To Net: NetName=BCLK Pin=J1-1
+Added Pin To Net: NetName=LRCLK Pin=J1-2

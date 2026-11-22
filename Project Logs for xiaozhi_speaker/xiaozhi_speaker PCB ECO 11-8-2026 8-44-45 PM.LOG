@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DIN Pin=J2-1
+Removed Pin From Net: NetName=SD_MODE Pin=J2-2
+Added Pin To Net: NetName=SD_MODE Pin=J2-1
+Added Pin To Net: NetName=DIN Pin=J2-2

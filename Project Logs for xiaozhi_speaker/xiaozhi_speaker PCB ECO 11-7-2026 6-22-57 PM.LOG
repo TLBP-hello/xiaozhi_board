@@ -1,0 +1,34 @@
+Added Component: Designator=?(TestPoint/SMD/1.5mm)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "NO-BOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UNIT PRICE"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=?(TestPoint/SMD/1.5mm)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "NO-BOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UNIT PRICE"; Value = "0"; VariantName = "[No Variations]"
+Add Net: Net with name "Net?_1" already exists
+Add Net: Net with name "Net?_1" already exists
+Add Net: Net with name "Net?_1" already exists
+Add Net: Net with name "Net?_1" already exists
+Add Net: Net with name "Net?_1" already exists
+Add Net: Net with name "Net?_1" already exists
+Added Member To Class: ClassName=xiaozhi_speaker Member=Component ? 12dB
+Added Member To Class: ClassName=xiaozhi_speaker Member=Component ? 3dB
+Added Member To Class: ClassName=xiaozhi_speaker Member=Component ? 6dB
+Added Member To Class: ClassName=xiaozhi_speaker Member=Component ? L
+Added Member To Class: ClassName=xiaozhi_speaker Member=Component ? L/R
+Added Member To Class: ClassName=xiaozhi_speaker Member=Component ? OUTN
+Added Member To Class: ClassName=xiaozhi_speaker Member=Component ? OUTP
+Added Member To Class: ClassName=xiaozhi_speaker Member=Component ? R
+Added Member To Class: ClassName=xiaozhi_speaker Member=Component ? SD
+Added Member To Class: ClassName=xiaozhi_speaker Member=Component ? channel

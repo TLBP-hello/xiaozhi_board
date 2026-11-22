@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=6dB/3dB NewDesignator=6dB
+Change Component Designator: OldDesignator=15dB/12dB NewDesignator=15dB
+Change Component Designator: OldDesignator=OUTN NewDesignator=OUTP
+Change Component Designator: OldDesignator=R/LR NewDesignator=R
+Change Component Designator: OldDesignator=SD/L NewDesignator=SD
+Change Net Name : Old Net Name=Net6dB/3dB_2 New Net Name=Net6dB_2
+Change Net Name : Old Net Name=Net15dB/12dB_2 New Net Name=Net15dB_2
+Change Net Name : Old Net Name=Netmode/gain_2 New Net Name=Netmode_2
+Change Net Name : Old Net Name=NetOUTN/OUTP_1 New Net Name=NetOUTP_1
+Change Net Name : Old Net Name=NetOUTN/OUTP_2 New Net Name=NetOUTP_2

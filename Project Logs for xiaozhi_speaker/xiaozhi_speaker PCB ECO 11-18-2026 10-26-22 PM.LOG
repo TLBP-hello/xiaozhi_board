@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=6dB NewDesignator=6dB/3dB
+Change Component Designator: OldDesignator=15dB NewDesignator=15dB/12dB
+Change Component Designator: OldDesignator=R NewDesignator=R/LR
+Change Component Designator: OldDesignator=SD NewDesignator=SD/L
+Change Net Name : Old Net Name=Net6dB_2 New Net Name=Net6dB/3dB_2
+Change Net Name : Old Net Name=Net15dB_2 New Net Name=Net15dB/12dB_2
+Added Member To Class: ClassName=xiaozhi_speaker Member=Component J2 110990030
