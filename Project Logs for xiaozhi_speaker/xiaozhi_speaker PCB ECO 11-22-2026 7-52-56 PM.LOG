@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=SD_MODE Pin=L-1
+Removed Pin From Net: NetName=SD_MODE Pin=L/R-1
+Removed Pin From Net: NetName=SD_MODE Pin=R3-2
+Removed Pin From Net: NetName=SD_MODE Pin=R-1
+Added Component: Designator=SD(JUMP/2/SMD/0402)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SD_MODE Pin=SD-2
+Change Net Name : Old Net Name=SD_MODE New Net Name=GND
+Added Pin To Net: NetName=SD_MODE Pin=L-1
+Added Pin To Net: NetName=SD_MODE Pin=L/R-1
+Added Pin To Net: NetName=SD_MODE Pin=R-1
+Added Pin To Net: NetName=SD_MODE Pin=R3-2
+Added Pin To Net: NetName=SD_MODE Pin=SD-1
+Added Net: Name=SD_MODE
+Added Member To Class: ClassName=xiaozhi_speaker Member=Component SD JUMP 2 Open
+Added Rule: Name=Schematic Supply Nets_1

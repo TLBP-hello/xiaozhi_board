@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=SD-2
+Removed Member From Class: ClassName=xiaozhi_speaker Member=SD
+Added Pin To Net: NetName=GND Pin=L-1
+Added Pin To Net: NetName=GND Pin=L/R-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R-1
+Change Net Name : Old Net Name=GND New Net Name=SD_MODE
+Added Rule: Name=Schematic Supply Nets

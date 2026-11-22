@@ -1,0 +1,99 @@
+Removed Pin From Net: NetName=VDD Pin=6dB/3dB-1
+Removed Pin From Net: NetName=GND Pin=12dB/15dB-1
+Removed Pin From Net: NetName=GND Pin=L/SD-1
+Removed Pin From Net: NetName=VDD Pin=L/SD-2
+Removed Pin From Net: NetName=SD_MODE Pin=mode-1
+Removed Pin From Net: NetName=NetR1_2 Pin=R/LR-1
+Removed Member From Class: ClassName=xiaozhi_speaker Member=6dB/3dB
+Removed Member From Class: ClassName=xiaozhi_speaker Member=12dB/15dB
+Removed Member From Class: ClassName=xiaozhi_speaker Member=L/SD
+Removed Member From Class: ClassName=xiaozhi_speaker Member=mode
+Removed Member From Class: ClassName=xiaozhi_speaker Member=R/LR
+Added Component: Designator=3dB(JUMP/2/SMD/0402)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=6dB(JUMP/2/SMD/0402)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=12dB(JUMP/2/SMD/0402)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=15dB(JUMP/2/SMD/0402)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L(JUMP/2/SMD/0402)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L/R(JUMP/2/SMD/0402)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R(JUMP/2/SMD/0402)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SD(JUMP/2/SMD/0402)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD Pin=3dB-1
+Added Pin To Net: NetName=GND Pin=12dB-1
+Added Pin To Net: NetName=SD_MODE Pin=L-1
+Added Pin To Net: NetName=VDD Pin=L-2
+Added Pin To Net: NetName=SD_MODE Pin=L/R-1
+Added Pin To Net: NetName=SD_MODE Pin=R-1
+Added Pin To Net: NetName=NetR1_2 Pin=R-2
+Added Pin To Net: NetName=SD_MODE Pin=SD-1
+Added Pin To Net: NetName=GND Pin=SD-2
+Added Pin To Net: NetName=GAIN Pin=3dB-2
+Added Pin To Net: NetName=GAIN Pin=6dB-2
+Added Pin To Net: NetName=GAIN Pin=12dB-2
+Added Pin To Net: NetName=GAIN Pin=15dB-2
+Added Pin To Net: NetName=GAIN Pin=U1-2
+Added Net: Name=GAIN
+Added Pin To Net: NetName=Net6dB_1 Pin=6dB-1
+Added Pin To Net: NetName=Net6dB_1 Pin=R5-1
+Added Net: Name=Net6dB_1
+Added Pin To Net: NetName=Net15dB_1 Pin=15dB-1
+Added Pin To Net: NetName=Net15dB_1 Pin=R4-1
+Added Net: Name=Net15dB_1
+Added Pin To Net: NetName=NetL/R_2 Pin=L/R-2
+Added Pin To Net: NetName=NetL/R_2 Pin=R2-2
+Added Net: Name=NetL/R_2
+Added Member To Class: ClassName=xiaozhi_speaker Member=Component 3dB JUMP 2 Open
+Added Member To Class: ClassName=xiaozhi_speaker Member=Component 6dB JUMP 2 Open
+Added Member To Class: ClassName=xiaozhi_speaker Member=Component 12dB JUMP 2 Open
+Added Member To Class: ClassName=xiaozhi_speaker Member=Component 15dB JUMP 2 Open
+Added Member To Class: ClassName=xiaozhi_speaker Member=Component L JUMP 2 Open
+Added Member To Class: ClassName=xiaozhi_speaker Member=Component L/R JUMP 2 Open
+Added Member To Class: ClassName=xiaozhi_speaker Member=Component R JUMP 2 Open
+Added Member To Class: ClassName=xiaozhi_speaker Member=Component SD JUMP 2 Open
